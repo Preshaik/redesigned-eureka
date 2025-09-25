@@ -1,0 +1,27 @@
+Risk Assessment
+
+While Option 2 presents a strategic opportunity to streamline project management within the CRM, several risks must be considered to ensure successful implementation, resource planning, and cost control.
+
+1. Potential Delay to Main CRM Project Timeline
+
+Implementing Option 2 will require additional design, development, testing, and user validation work. If these activities are not adequately scoped and resourced, they may divert vendor and internal attention from the core CRM deliverables, risking delays to the overall project timeline. This is particularly relevant if effort estimates for the CRM-based PM tool are revisited or increased due to expanded scope.
+
+2. Scope Creep and Unbudgeted Enhancements
+
+Although the core functionalities of Teamwork have been captured and costed (185 hours), additional feedback from non-Teamwork users has surfaced feature requests that fall outside the original estimate. If these enhancements are approved mid-stream without formal scope control, the project may experience uncontrolled scope expansion, resulting in increased development hours and higher overall cost.
+
+3. Higher Future Costs if Implementation is Deferred
+
+If Option 2 is not implemented concurrently with the main CRM build and is instead postponed to a future phase or fiscal year, the vendor has indicated that the cost is likely to exceed the current estimate due to the loss of development efficiency and the need to re-engage resources. Additionally, future implementation would require renewed stakeholder alignment, potential retraining, and re-estimation of requirements, further increasing complexity and cost.
+
+4. Resource Constraints (Internal and Vendor)
+
+Both internal project teams and the vendor (TruNorth Data) are already allocated to critical CRM deliverables. Adding a parallel stream for CRM-based project management functionality without adjusting resource bandwidth or timelines may result in resourcing bottlenecks, reduced quality of deliverables, or burnout. Internal teams may also face challenges balancing user testing and change management for both the core CRM and PM tool simultaneously.
+
+5. Insufficient Design Leading to User Dissatisfaction
+
+Although feedback from both Teamwork and non-Teamwork users has informed the design, there is a risk that the final solution may not fully meet end-user expectations if design sessions are rushed or functionality is over-simplified to stay within budget. This may result in low adoption, resistance to change, or reversion to legacy tools like Asana or Excel.
+
+6. Limited Benefit Realization if Asana Usage Persists
+
+Option 2 is scoped to meet the needs of FMSSS users currently using Teamwork. If departments currently using Asana continue operating outside the CRM environment, the organization may not fully achieve its goals of platform standardization, integrated reporting, and cost savings. There is also a risk of organizational fragmentation if departments are operating under different project management systems.
